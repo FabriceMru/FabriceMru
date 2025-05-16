@@ -12,7 +12,7 @@
 
 | HTML | CSS3 | SASS | Tailwind | Bootsrap | Figma |
 |------|------|------|----------| -------- | ----- |
-![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+| <img src="assets/html-5-svgrepo-com.svg" width="40"/> | <img src="assets/css-3-svgrepo-com.svg" width="40"/> | <img src="assets/scss2-svgrepo-com.svg" width="40"/> | <img src="assets/tailwind-svgrepo-com.svg" width="40"/> | <img src="assets/bootstrap-4-logo-svgrepo-com.svg" width="40"/> |
 
 
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
