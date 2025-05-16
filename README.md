@@ -31,3 +31,62 @@
 |:--------------:|:-------------:|:---------:|
 | <img src="assets/adobe-photoshop-svgrepo-com.svg" width="50"/> | <img src="assets/adobe-xd-svgrepo-com.svg" width="50"/> | <img src="assets/corel-draw-svgrepo-com.svg" width="50"/> |
 
+---
+
+## 🚀 My Projects
+
+Portfolio - Fabrice Nadal
+
+
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+
+
+---
+
+TrustDrop - Secure, anonymous whistleblower tool with client-side encryption
+
+
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+
+
+---
+
+Nebula Chat
+
+
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+
+
+---
+
+Watchflix 
+
+
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+
+
+---
+
+### GAMES
+
+NeonSnakeTwo
+
+
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+
+
+---
+
+Schiffe versenken
+
+
+| Preview | Links | Technical Stack |
+|:-------:|:-----:| --------------- |
+
+
+---
