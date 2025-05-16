@@ -11,9 +11,11 @@
 ### 🎨 Layout Design
 
 | HTML |
+| ---- |
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
 
 | CSS |
+| --- |
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 
 | SASS | Tailwind |
