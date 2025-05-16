@@ -10,16 +10,18 @@
 
 ### 🎨 Layout Design
 
-| HTML5 | CSS3 | SASS | Tailwind | Bootsrap | Figma |
-|-------|------|------|----------| -------- | ----- |
-| <img src="assets/html-5-svgrepo-com.svg" width="50"/> | <img src="assets/css-3-svgrepo-com.svg" width="50"/> | <img src="assets/scss2-svgrepo-com.svg" width="50"/> | <img src="assets/tailwind-svgrepo-com.svg" width="50"/> | <img src="assets/bootstrap-4-logo-svgrepo-com.svg" width="50"/> | <img src="assets/figma-svgrepo-com.svg" width="50"/> |
+| HTML5 | CSS3 | SASS | Tailwind | Bootstrap | Figma |
+|:-----:|:----:|:----:|:--------:|:---------:|:-----:|
+| <img src="assets/html-5-svgrepo-com.svg" width="40"/> | <img src="assets/css-3-svgrepo-com.svg" width="40"/> | <img src="assets/scss2-svgrepo-com.svg" width="40"/> | <img src="assets/tailwind-svgrepo-com.svg" width="40"/> | <img src="assets/bootstrap-4-logo-svgrepo-com.svg" width="40"/> | <img src="assets/figma-svgrepo-com.svg" width="40"/> |
 
+---
 
 ### ⚛️ Frontend Development
 
 | JavaScript | TypeScript | React | Git | Redux |
-|------------|------------|-------|-----| ----- |
-| <img src="assets/javascript-svgrepo-com.svg" width="50"/> | <img src="assets/typescript-svgrepo-com.svg" width="50"/> | <img src="assets/react-svgrepo-com.svg" width="50"/> | <img src="assets/git-svgrepo-com.svg" width="50"/> | <img src="assets/redux-logo-svgrepo-com.svg" width="50"/> |
+|:----------:|:----------:|:-----:|:---:|:-----:|
+| <img src="assets/javascript-svgrepo-com.svg" width="40"/> | <img src="assets/typescript-svgrepo-com.svg" width="40"/> | <img src="assets/react-svgrepo-com.svg" width="40"/> | <img src="assets/git-svgrepo-com.svg" width="40"/> | <img src="assets/redux-logo-svgrepo-com.svg" width="40"/> |
+
 
 ### 🛠️ Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
