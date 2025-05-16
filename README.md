@@ -8,6 +8,8 @@
 
 ## ⚙️ Tech Stack
 
+---
+
 ### 🎨 Layout Design
 
 | HTML5 | CSS3 | SASS | Tailwind | Bootstrap | Figma |
@@ -25,12 +27,16 @@
 
 ### 🛠️ Backend Development
 
+---
+
 | MongoDB | Node | Express | RestAPI |
 |:-------:|:----:|:-------:|:-------:|
 | <img src="assets/mongodb-svgrepo-com.svg" width="50"/> | <img src="assets/node-js-svgrepo-com.svg" width="50"/> | <img src="assets/express-svgrepo-com.svg" width="50"/> | <img src="assets/rest-api-svgrepo-com.svg" width="50"/> | 
 
 
 ### 🎥 Content Creation
+
+---
 
 | AdobePhotoshop | AdobeIndesign | CorelDraw |
 |:--------------:|:-------------:|:---------:|
