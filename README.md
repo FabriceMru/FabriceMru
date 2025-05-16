@@ -41,37 +41,71 @@
 |:--------------:|:-------------:|:---------:|
 | <img src="assets/adobe-photoshop-svgrepo-com.svg" width="50"/> | <img src="assets/adobe-xd-svgrepo-com.svg" width="50"/> | <img src="assets/corel-draw-svgrepo-com.svg" width="50"/> |
 
----
+----------------
 
-## 🚀 Projekte
+## ⚙️ Tech Stack
 
-### 📚 Books Table (Fullstack)
-**Tech:** React, Context API, React Router, Express.js, MongoDB
-
-**🔗 [Demo](#) | [GitHub Repo](#)**
-
-**Key Features:**
-- Mobilfreundlich und responsive
-- API Requests mit GET/POST/PATCH/DELETE
-- Fehlerbehandlung & Ladeanzeigen
-
----
-
-### 👥 People App (Frontend)
-**Tech:** React, React Router, TypeScript, Bulma, URLSearchParams
-
-**🔗 [Demo](#) | [GitHub Repo](#)**
-
-**Features:**
-- Multi-Parameter-Suche
-- Sortier- und Filterfunktion
-- Moderne UI-Komponenten
+### 🎨 Layout Design
+<p align="center">
+  <img src="assets/html5.svg" width="40" alt="HTML" />
+  <img src="assets/css3.svg" width="40" alt="CSS" />
+  <img src="assets/sass.svg" width="40" alt="SASS" />
+  <img src="assets/tailwind.svg" width="40" alt="Tailwind" />
+  <img src="assets/bootstrap.svg" width="40" alt="Bootstrap" />
+  <img src="assets/figma.svg" width="40" alt="Figma" />
+</p>
+<p align="center">
+  HTML5 &nbsp;&nbsp;&nbsp; CSS3 &nbsp;&nbsp;&nbsp; SASS &nbsp;&nbsp;&nbsp; Tailwind &nbsp;&nbsp;&nbsp; Bootstrap &nbsp;&nbsp;&nbsp; Figma
+</p>
 
 ---
 
-### ✅ Todo App (Frontend)
-**Tech:** React, Context API, Local Storage
-
-**🔗 [Demo](#) | [GitHub Repo](#)**
+### ⚛️ Frontend Development
+<p align="center">
+  <img src="assets/javascript.svg" width="40" alt="JavaScript" />
+  <img src="assets/typescript.svg" width="40" alt="TypeScript" />
+  <img src="assets/react.svg" width="40" alt="React" />
+  <img src="assets/git.svg" width="40" alt="Git" />
+  <img src="assets/redux.svg" width="40" alt="Redux" />
+</p>
+<p align="center">
+  JavaScript &nbsp;&nbsp;&nbsp; TypeScript &nbsp;&nbsp;&nbsp; React &nbsp;&nbsp;&nbsp; Git &nbsp;&nbsp;&nbsp; Redux
+</p>
 
 ---
+
+### 🛠️ Backend Development
+<p align="center">
+  <img src="assets/mongodb.svg" width="40" alt="MongoDB" />
+  <img src="assets/nodejs.svg" width="40" alt="Node.js" />
+  <img src="assets/express.svg" width="40" alt="Express" />
+  <img src="assets/restapi.svg" width="40" alt="REST API" />
+</p>
+<p align="center">
+  MongoDB &nbsp;&nbsp;&nbsp; Node.js &nbsp;&nbsp;&nbsp; Express &nbsp;&nbsp;&nbsp; REST API
+</p>
+
+---
+
+### 📈 Performance Marketing
+<p align="center">
+  <img src="assets/googleads.svg" width="40" />
+  <img src="assets/facebookads.svg" width="40" />
+  <img src="assets/analytics.svg" width="40" />
+  <img src="assets/tagmanager.svg" width="40" />
+  <img src="assets/fbapi.svg" width="40" />
+</p>
+<p align="center">
+  Google Ads &nbsp;&nbsp;&nbsp; Facebook Ads &nbsp;&nbsp;&nbsp; Analytics &nbsp;&nbsp;&nbsp; Tag Manager &nbsp;&nbsp;&nbsp; Facebook API
+</p>
+
+---
+
+### 🎥 Content Creation
+<p align="center">
+  <img src="assets/photoshop.svg" width="40" />
+  <img src="assets/premiere.svg" width="40" />
+</p>
+<p align="center">
+  Photoshop &nbsp;&nbsp;&nbsp; Premiere
+</p>
