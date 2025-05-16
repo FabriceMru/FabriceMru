@@ -1,10 +1,10 @@
 # 👨‍💻 Full Stack Web Developer
 
-## 📫 Kontakt
+## 📫 Contact
+
 | Mail | LinkedIn |
 |:----:|:--------:|
-- 📧 [fabricen88@gmail.com](mailto:fabrice88@gmail.com)
-- 💼 [LinkedIn - Fabrice Nadal](https://www.linkedin.com/in/fabrice-nadal/)
+| <a href="mailto:fabrice88@gmail.com"><img src="assets/mail-svgrepo-com.svg" width="50" alt="Email Icon" /><br/>fabricen88@gmail.com</a> | <a href="https://www.linkedin.com/in/fabrice-nadal/" target="_blank"><img src="assets/linkedin-svgrepo-com.svg" width="50" alt="LinkedIn Icon" /><br/>LinkedIn – Fabrice Nadal</a> |
 
 ---
 
