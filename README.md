@@ -1,15 +1,14 @@
 # 👨‍💻 Full Stack Web Developer
 
 ## 📫 Kontakt
+| Mail | LinkedIn |
+|:----:|:--------:|
 - 📧 [fabricen88@gmail.com](mailto:fabrice88@gmail.com)
 - 💼 [LinkedIn - Fabrice Nadal](https://www.linkedin.com/in/fabrice-nadal/)
 
 ---
 
 ## ⚙️ Tech Stack
-
----
-
 ### 🎨 Layout Design
 
 | HTML5 | CSS3 | SASS | Tailwind | Bootstrap | Figma |
