@@ -10,32 +10,16 @@
 
 ### 🎨 Layout Design
 
-| HTML | CSS3 | SASS | Tailwind | Bootsrap | Figma |
-|------|------|------|----------| -------- | ----- |
-| <img src="assets/html-5-svgrepo-com.svg" width="40"/> | <img src="assets/css-3-svgrepo-com.svg" width="40"/> | <img src="assets/scss2-svgrepo-com.svg" width="40"/> | <img src="assets/tailwind-svgrepo-com.svg" width="40"/> | <img src="assets/bootstrap-4-logo-svgrepo-com.svg" width="40"/> |
+| HTML5 | CSS3 | SASS | Tailwind | Bootsrap | Figma |
+|-------|------|------|----------| -------- | ----- |
+| <img src="assets/html-5-svgrepo-com.svg" width="50"/> | <img src="assets/css-3-svgrepo-com.svg" width="50"/> | <img src="assets/scss2-svgrepo-com.svg" width="50"/> | <img src="assets/tailwind-svgrepo-com.svg" width="50"/> | <img src="assets/bootstrap-4-logo-svgrepo-com.svg" width="50"/> | <img src="assets/figma-svgrepo-com.svg" width="50"/> |
 
-
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
-
-| SASS | Tailwind |
-![SASS](https://img.shields.io/badge/-SASS-cc6699?logo=sass)
-
-| Tailwind |
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css)
-
-| Bootstrap |
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
-
-| Figma |
-![Figma](https://img.shields.io/badge/-Figma-000?logo=figma)
 
 ### ⚛️ Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
-![Next](https://img.shields.io/badge/-Redux-764ABC?logo=redux)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git)
+
+| JavaScript | TypeScript | React | Git | Redux |
+|------------|------------|-------|-----| ----- |
+| <img src="assets/javascript-svgrepo-com.svg" width="50"/> | <img src="assets/typescript-svgrepo-com.svg" width="50"/> | <img src="assets/react-svgrepo-com.svg" width="50"/> | <img src="assets/git-svgrepo-com.svg" width="50"/> | <img src="assets/redux-logo-svgrepo-com.svg" width="50"/> |
 
 ### 🛠️ Backend Development
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
