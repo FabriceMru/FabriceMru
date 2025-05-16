@@ -24,25 +24,17 @@
 
 
 ### 🛠️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![REST API](https://img.shields.io/badge/-REST_API-blue)
 
-### 🛠️ Content & Design Creation
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js)
-![Express](https://img.shields.io/badge/-Express-000?logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb)
-![REST API](https://img.shields.io/badge/-REST_API-blue)
+| MongoDB | Node | Express | RestAPI |
+|:-------:|:----:|:-------:|:-------:|
+| <img src="assets/mongodb-svgrepo-com.svg" width="50"/> | <img src="assets/node-js-svgrepo-com.svg" width="50"/> | <img src="assets/express-svgrepo-com.svg" width="50"/> | <img src="assets/rest-api-svgrepo-com.svg" width="50"/> | 
 
-### 📊 Performance Marketing
-![Google Ads](https://img.shields.io/badge/-Google_Ads-4285F4?logo=googleads)
-![Facebook Ads](https://img.shields.io/badge/-Facebook_Ads-1877F2?logo=facebook)
-![Google Analytics](https://img.shields.io/badge/-Google_Analytics-E37400?logo=googleanalytics)
 
 ### 🎥 Content Creation
-![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobephotoshop)
-![Premiere](https://img.shields.io/badge/-Premiere_Pro-9999FF?logo=adobepremierepro)
+
+| AdobePhotoshop | AdobeIndesign | CorelDraw |
+|:--------------:|:-------------:|:---------:|
+| <img src="assets/adobe-photoshop-svgrepo-com.svg" width="50"/> | <img src="assets/adobe-xd-svgrepo-com.svg" width="50"/> | <img src="assets/corel-draw-svgrepo-com.svg" width="50"/> |
 
 ---
 
