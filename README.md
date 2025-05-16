@@ -1,4 +1,5 @@
-# 👨‍💻 Full Stack Web Developer
+<h1 align="center">Full Stack Web Developer</h1>
+
 
 ## 📫 Contact
 
