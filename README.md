@@ -35,11 +35,11 @@
 
 ## 🚀 My Projects
 
-Portfolio - Fabrice Nadal
+### 📂 Portfolio - Fabrice Nadal
 
-
-| Preview | Links | Technical Stack |
-|:-------:|:-----:| --------------- |
+| Preview | Links | Tech Stack |
+|:-------:|:-----:|:----------:|
+| ![Screenshot](./assets/Bildschirmfoto vom 2025-05-16 14-01-58.png) | [🌐 Live Demo](https://www.fabricenadal.com)<br>[💻 GitHub Repo](https://github.com/deinusername/dein-projekt) | <img | <img src="assets/react-svgrepo-com.svg" width="40"/> | <img src="assets/tailwind-svgrepo-com.svg" width="40"/> | <img src="assets/vite-svgrepo-com.svg" width="40"/> |
 
 
 ---
