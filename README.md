@@ -9,13 +9,23 @@
 ## ⚙️ Tech Stack
 
 ### 🎨 Layout Design
-| HTML | CSS | SASS | Tailwind |
-|------|-----|------|----------|
+| HTML |
+|------|
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
+| CSS | 
+|-----|
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
+| SASS | Tailwind |
+|------|----------|
 ![SASS](https://img.shields.io/badge/-SASS-cc6699?logo=sass)
+| Tailwind |
+|----------|
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-06B6D4?logo=tailwind-css)
+| Bootstrap |
+|---------- |
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap)
+| Figma |
+|-------|
 ![Figma](https://img.shields.io/badge/-Figma-000?logo=figma)
 
 ### ⚛️ Frontend Development
