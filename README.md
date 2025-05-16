@@ -9,6 +9,8 @@
 ## ⚙️ Tech Stack
 
 ### 🎨 Layout Design
+| HTML | CSS | SASS | Tailwind |
+|------|-----|------|----------|
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-cc6699?logo=sass)
