@@ -37,13 +37,12 @@
 
 ### 📂 Portfolio - Fabrice Nadal
 
+### 📁 Portfolio - Fabrice Nadal
+
 | Preview | Links | Tech Stack |
-|:-------:|:-----:|:----------:|
-![Preview Screenshot](./assets/Bildschirmfoto%20vom%202025-05-16%2014-01-58.png) | [🌐Live Demo](https://www.fabricenadal.com)<br>[💻GitHub Repo](https://github.com/deinusername/dein-projekt) | <td align="center">
-  <img src="assets/react-svgrepo-com.svg" width="40"/><br>
-  <img src="assets/tailwind-svgrepo-com.svg" width="40"/><br>
-  <img src="assets/vite-svgrepo-com.svg" width="40"/>
-</td>
+|:--------:|:------:|:-----------:|
+| ![Preview Screenshot](./assets/portfolio-preview.png) | [🌐 Live Demo](https://www.fabricenadal.com)<br>[📂 GitHub Repo](https://github.com/deinusername/dein-projekt) | <img src="assets/react-svgrepo-com.svg" width="40"/> <img src="assets/tailwind-svgrepo-com.svg" width="40"/> <img src="assets/vite-svgrepo-com.svg" width="40"/> |
+
 
 
 ---
