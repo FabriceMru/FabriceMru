@@ -70,7 +70,7 @@ Watchflix
 
 | Preview | Links | Technical Stack |
 |:-------:|:-----:|:---------------:|
-| ![Preview Screenshot](./assets/previewwatchflix.png) | [🌐 Demo](https://watchflix-bay.vercel.app/)<br><br>[📁 Repo](https://github.com/FabriceMru/watchflix) | <img src="assets/typescript-svgrepo-com.svg" width="40"/> <img src="assets/css-3-svgrepo-com.svg" width="40"/> <img src="assets/javascript-svgrepo-com.svg" width="40"/> |
+| ![Preview Screenshot](./assets/previewwatchflix.png) | [🌐 Demo](https://watchflix-bay.vercel.app/)<br><br>[📁 Repo](https://github.com/FabriceMru/watchflix) | <img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/javascript-svgrepo-com.svg" width="40"/> |
 
 ---
 
@@ -81,7 +81,7 @@ NeonSnakeTwo
 
 | Preview | Links | Tech Stack |
 |:-------:|:-----:|:----------:|
-| ![Preview Screenshot](./assets/previewsnake.png) | [🌐 Demo](https://fabricemru.github.io/NeonSnakeTwoGame/)<br><br>[📁 Repo](https://github.com/FabriceMru/NeonSnakeTwoGame?tab=readme-ov-file) | <img src="assets/html-5-svgrepo-com.svg" width="40"/> <img src="assets/css-3-svgrepo-com.svg" width="40"/> <img src="assets/javascript-svgrepo-com.svg" width="40"/> |
+| ![Preview Screenshot](./assets/previewsnake.png) | [🌐 Demo](https://fabricemru.github.io/NeonSnakeTwoGame/)<br><br>[📁 Repo](https://github.com/FabriceMru/NeonSnakeTwoGame?tab=readme-ov-file) | <img src="assets/html-5-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/javascript-svgrepo-com.svg" width="40"/> |
 
 
 ---
