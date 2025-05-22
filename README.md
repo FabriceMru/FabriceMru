@@ -39,7 +39,7 @@
 
 ### 📁 Portfolio - Fabrice Nadal
 
-| Preview  | Links  | Tech Stack |
+| Preview  | Links  | Tech Stack  |
 |:--------:|:------:|:-----------:|
 ![Preview Screenshot](./assets/Bildschirmfoto%20vom%202025-05-16%2014-01-58.png) | [🌐 Demo](https://www.fabricenadal.com)<br><br>[📂 Repo](https://github.com/deinusername/dein-projekt) | <img src="assets/react-svgrepo-com.svg" width="40"/> <img src="assets/tailwind-svgrepo-com.svg" width="40"/> <img src="assets/vite-svgrepo-com.svg" width="40"/> |
 
@@ -69,7 +69,7 @@ Watchflix
 
 
 | Preview | Links | Technical Stack |
-|:-------:|:-----:| --------------- |
+|:-------:|:-----:|:---------------:|
 | ![Preview Screenshot](./assets/previewwatchflix.png) | [🌐 Demo](https://watchflix-bay.vercel.app/)<br><br>[📁 Repo](https://github.com/FabriceMru/watchflix) | <img src="assets/typescript-svgrepo-com.svg" width="40"/> <img src="assets/css-3-svgrepo-com.svg" width="40"/> <img src="assets/javascript-svgrepo-com.svg" width="40"/> |
 
 ---
