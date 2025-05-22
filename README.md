@@ -70,7 +70,7 @@ Watchflix
 
 | Preview | Links | Technical Stack |
 |:-------:|:-----:| --------------- |
-
+| ![Preview Screenshot](./assets/previewwatchflix.png) | [🌐 Demo] (https://watchflix-bay.vercel.app/))<br><br>[📁 Repo] (https://github.com/FabriceMru/watchflix) | <img src="assets/typescript-svgrepo-com.svg" width="40"/> <img src="assets/css-3-svgrepo-com.svg" width="40"/> <img src="assets/javascript-svgrepo-com.svg" width="40"/> |
 
 ---
 
