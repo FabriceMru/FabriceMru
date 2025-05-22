@@ -42,11 +42,11 @@
 | Preview  | Links  | Tech Stack  |
 |:--------:|:------:|:-----------:|
 ![Preview Screenshot](./assets/Bildschirmfoto%20vom%202025-05-16%2014-01-58.png) | [🌐 Demo](https://www.fabricenadal.com)<br><br>[📂 Repo](https://github.com/deinusername/dein-projekt) | <img src="assets/react-svgrepo-com.svg" width="40"/> <img src="assets/tailwind-svgrepo-com.svg" width="40"/> <img src="assets/vite-svgrepo-com.svg" width="40"/> |
+| Description |
 <table>
 <thead>
 <tr>
 <td colspan="4">
-<strong>Description</strong>
 <ul>
 <p>This project demonstrates a modern web application built with a modular architecture using React and TailwindCSS. It features a fully responsive design, efficient navigation with React Router, and is structured around reusable components. As an early-stage prototype, it explores the concept of a customized streaming interface with a focus on performance, styling speed, and maintainability.</p>
 </ul>
