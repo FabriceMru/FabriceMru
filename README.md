@@ -41,7 +41,7 @@
 
 | Preview | Links | Tech Stack |
 |:--------:|:------:|:-----------:|
-![Preview Screenshot](./assets/Bildschirmfoto%20vom%202025-05-16%2014-01-58.png) | [🌐 Demo](https://www.fabricenadal.com)<br><br>[📂 Repo](https://github.com/deinusername/dein-projekt) | <img src="assets/html-5-svgrepo-com.svg" width="40"/> <img src="assets/css-3-svgrepo-com.svg" width="40"/> <img src="assets/javascript-svgrepo-com.svg" width="40"/> |
+![Preview Screenshot](./assets/Bildschirmfoto%20vom%202025-05-16%2014-01-58.png) | [🌐 Demo](https://www.fabricenadal.com)<br><br>[📂 Repo](https://github.com/deinusername/dein-projekt) | <img src="assets/react-svgrepo-com.svg" width="40"/> <img src="assets/tailwind-svgrepo-com.svg" width="40"/> <img src="assets/vite-svgrepo-com.svg" width="40"/> |
 
 
 
@@ -81,7 +81,7 @@ NeonSnakeTwo
 
 | Preview | Links | Tech Stack |
 |:-------:|:-----:|:----------:|
-| ![Preview Screenshot](./assets/previewsnake.png) | [🌐 Demo](https://fabricemru.github.io/NeonSnakeTwoGame/)<br><br>[📁 Repo](https://github.com/FabriceMru/NeonSnakeTwoGame?tab=readme-ov-file) | <img src="assets/html5-svgrepo-com.svg" width="40"/> <img src="assets/scss2-svgrepo-com.svg" width="40"/> <img src="assets/javascript-svgrepo-com.svg" width="40"/> |
+| ![Preview Screenshot](./assets/previewsnake.png) | [🌐 Demo](https://fabricemru.github.io/NeonSnakeTwoGame/)<br><br>[📁 Repo](https://github.com/FabriceMru/NeonSnakeTwoGame?tab=readme-ov-file) | <img src="assets/html-5-svgrepo-com.svg" width="40"/> <img src="assets/css-3-svgrepo-com.svg" width="40"/> <img src="assets/javascript-svgrepo-com.svg" width="40"/> |
 
 
 ---
