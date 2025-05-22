@@ -42,21 +42,17 @@
 | Preview  | Links  | Tech Stack  |
 |:--------:|:------:|:-----------:|
 ![Preview Screenshot](./assets/Bildschirmfoto%20vom%202025-05-16%2014-01-58.png) | [🌐 Demo](https://www.fabricenadal.com)<br><br>[📂 Repo](https://github.com/deinusername/dein-projekt) | <img src="assets/react-svgrepo-com.svg" width="40"/> <img src="assets/tailwind-svgrepo-com.svg" width="40"/> <img src="assets/vite-svgrepo-com.svg" width="40"/> |
-
-
-
----
-
-TrustDrop - Secure, anonymous whistleblower tool with client-side encryption
-
-
-| Preview | Links | Technical Stack |
-|:-------:|:-----:| --------------- |
-
+| Description |
+| ----------- |
+Responsive and mobile-friendly layout
+- TailwindCSS for rapid styling
+- Dynamic routing with React Router
+- Component-based architecture
+- Early proof-of-concept for a streaming UI
 
 ---
 
-Nebula Chat
+Code Square Chat
 
 
 | Preview | Links | Technical Stack |
