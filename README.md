@@ -45,7 +45,7 @@
 <table>
 <thead>
 <tr>
-      <td colspan="3">
+      <td colspan="6">
         <strong>Description</strong>
         <ul>
           <li>Responsive and mobile-friendly layout</li>
