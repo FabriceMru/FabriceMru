@@ -93,6 +93,16 @@ NeonSnakeTwo
 | Preview | Links | Tech Stack |
 |:-------:|:-----:|:----------:|
 | ![Preview Screenshot](./assets/previewsnake.png) | [🌐 Demo](https://fabricemru.github.io/NeonSnakeTwoGame/)<br><br>[📁 Repo](https://github.com/FabriceMru/NeonSnakeTwoGame?tab=readme-ov-file) | <img src="assets/html-5-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/javascript-svgrepo-com.svg" width="40"/> |
+| Description |
+<table>
+<thead>
+<tr>
+<td colspan="4">
+<p>Neon Snake Two is a modern, browser-based rendition of the classic Snake game, developed as one of my early projects to enhance my understanding of game development and frontend design. The game features vibrant neon visuals and introduces multiple levels to increase the challenge.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 
 ---
@@ -103,6 +113,15 @@ Schiffe versenken
 | Preview | Links | Technical Stack |
 |:-------:|:-----:|:---------------:|
 ![Preview Screenshot](./assets/previewschiffe.png) | [🌐 Demo](https://schiffe-versenken.vercel.app/)<br><br>[📂 Repo](https://github.com/FabriceMru/Schiffe-versenken/tree/main) | <img src="assets/html-5-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/javascript-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/> |
-
+| Description |
+<table>
+<thead>
+<tr>
+<td colspan="4">
+<p>Schiffe Versenken is a browser-based adaptation of the classic Battleship game, developed as one of my early projects to enhance my skills in frontend development and game logic implementation. The game offers a minimalist design and intuitive user interface, allowing players to engage in strategic gameplay by attempting to sink the opponent's fleet through coordinate-based attacks.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 ---
