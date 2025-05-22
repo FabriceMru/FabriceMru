@@ -81,7 +81,7 @@ NeonSnakeTwo
 
 | Preview | Links | Technical Stack |
 |:-------:|:-----:| --------------- |
-![Preview Screenshot](./assets/previewsnake.png) | [🌐 Demo]([https://www.fabricenadal.com](https://fabricemru.github.io/NeonSnakeTwoGame/))<br><br>[📂 Repo]([https://github.com/deinusername/dein-projekt](https://github.com/FabriceMru/NeonSnakeTwoGame?tab=readme-ov-file)) | <img src="assets/html-5-svgrepo-com.svg" width="40"/> <img src="assets/scss2-svgrepo-com.svg" width="40"/> <img src="assets/javascript-svgrepo-com.svg" width="40"/> |
+![Preview Screenshot](./assets/previewsnake.png) | [🌐 Demo]([https://www.fabricenadal.com](https://fabricemru.github.io/NeonSnakeTwoGame/)<br><br>[📂 Repo]([https://github.com/deinusername/dein-projekt](https://github.com/FabriceMru/NeonSnakeTwoGame?tab=readme-ov-file) | <img src="assets/html-5-svgrepo-com.svg" width="40"/> <img src="assets/scss2-svgrepo-com.svg" width="40"/> <img src="assets/javascript-svgrepo-com.svg" width="40"/> |
 
 ---
 
