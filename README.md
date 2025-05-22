@@ -91,11 +91,6 @@ Schiffe versenken
 
 | Preview | Links | Technical Stack |
 |:-------:|:-----:|:---------------:|
-![Preview Screenshot](./assets/shipspreview.png) | [🌐 Demo](https://schiffe-versenken.vercel.app/)<br><br>[📂 Repo](https://github.com/FabriceMru/Schiffe-versenken/tree/main) | <div align="center">
-  <img src="assets/html5-svgrepo-com.svg" width="40"/><br>
-  <img src="assets/css3-svgrepo-com.svg" width="40"/><br>
-  <img src="assets/javascript-svgrepo-com.svg" width="40"/><br>
-  <img src="assets/typescript-icon-svgrepo-com.svg" width="40"/>
-</div> |
+![Preview Screenshot](./assets/shipspreview.png) | [🌐 Demo](https://schiffe-versenken.vercel.app/)<br><br>[📂 Repo](https://github.com/FabriceMru/Schiffe-versenken/tree/main) | <img src="assets/html-5-svgrepo-com.svg" width="40"/> <img src="assets/css-3-svgrepo-com.svg" width="40"/> <img src="assets/javascript-svgrepo-com.svg" width="40"/> <img src="assets/typescript-svgrepo-com.svg" width="40"/> |
 
 ---
