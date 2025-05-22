@@ -45,18 +45,18 @@
 <table>
 <thead>
 <tr>
-      <td colspan="6">
-        <strong>Description</strong>
-        <ul>
-          <li>Responsive and mobile-friendly layout</li>
-          <li>TailwindCSS for rapid styling</li>
-          <li>Dynamic routing with React Router</li>
-          <li>Component-based architecture</li>
-          <li>Early proof-of-concept for a streaming UI</li>
-        </ul>
-      </td>
-    </tr>
-  </tbody>
+<td colspan="4">
+<strong>Description</strong>
+<ul>
+<li>• Responsive and mobile-friendly layout</li>
+<li>• TailwindCSS for rapid styling</li>
+<li>• Dynamic routing with React Router</li>
+<li>• Component-based architecture</li>
+<li>• Early proof-of-concept for a streaming UI</li>
+</ul>
+</td>
+</tr>
+</tbody>
 </table>
 ---
 
