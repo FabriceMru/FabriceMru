@@ -43,7 +43,7 @@
 |:--------:|:------:|:-----------:|
 ![Preview Screenshot](./assets/Bildschirmfoto%20vom%202025-05-16%2014-01-58.png) | [🌐 Demo](https://www.fabricenadal.com)<br><br>[📂 Repo](https://github.com/deinusername/dein-projekt) | <img src="assets/react-svgrepo-com.svg" width="40"/> <img src="assets/tailwind-svgrepo-com.svg" width="40"/> <img src="assets/vite-svgrepo-com.svg" width="40"/> |
 | Description |
-| Responsive and mobile-friendly layout • TailwindCSS for rapid styling • Dynamic routing with React Router • Component-based architecture • Early proof-of-concept for a streaming UI |  |  |
+| • Responsive and mobile-friendly layout<br/> • TailwindCSS for rapid styling<br/> • Dynamic routing with React Router<br/> • Component-based architecture<br/> • Early proof-of-concept for a streaming UI |  |  |
 
 ---
 
