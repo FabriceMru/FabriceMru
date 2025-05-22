@@ -48,11 +48,7 @@
 <td colspan="4">
 <strong>Description</strong>
 <ul>
-<li>Responsive and mobile-friendly layout</li>
-<li>TailwindCSS for rapid styling</li>
-<li>Dynamic routing with React Router</li>
-<li>Component-based architecture</li>
-<li>Early proof-of-concept for a streaming UI</li>
+<li>This project demonstrates a modern web application built with a modular architecture using React and TailwindCSS. It features a fully responsive design, efficient navigation with React Router, and is structured around reusable components. As an early-stage prototype, it explores the concept of a customized streaming interface with a focus on performance, styling speed, and maintainability.</li>
 </ul>
 </td>
 </tr>
