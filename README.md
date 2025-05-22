@@ -52,6 +52,8 @@
 </tr>
 </tbody>
 </table>
+
+  
 ---
 
 Code Square Chat
@@ -69,7 +71,18 @@ Watchflix
 | Preview | Links | Technical Stack |
 |:-------:|:-----:|:---------------:|
 | ![Preview Screenshot](./assets/previewwatchflix.png) | [🌐 Demo](https://watchflix-bay.vercel.app/)<br><br>[📁 Repo](https://github.com/FabriceMru/watchflix) | <img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/javascript-svgrepo-com.svg" width="40"/> |
+| Description |
+<table>
+<thead>
+<tr>
+<td colspan="4">
+<p>WatchFlix is one of my initial projects, developed to deepen my understanding of frontend development and design principles. This web application serves as a conceptual streaming platform, allowing users to browse and view information about movies and TV series. Emphasizing a clean and responsive user interface, the project showcases my skills in creating engaging and accessible designs.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
+  
 ---
 
 ### GAMES
