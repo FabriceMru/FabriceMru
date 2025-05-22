@@ -48,7 +48,7 @@
 <td colspan="4">
 <strong>Description</strong>
 <ul>
-<li>This project demonstrates a modern web application built with a modular architecture using React and TailwindCSS. It features a fully responsive design, efficient navigation with React Router, and is structured around reusable components. As an early-stage prototype, it explores the concept of a customized streaming interface with a focus on performance, styling speed, and maintainability.</li>
+<p>This project demonstrates a modern web application built with a modular architecture using React and TailwindCSS. It features a fully responsive design, efficient navigation with React Router, and is structured around reusable components. As an early-stage prototype, it explores the concept of a customized streaming interface with a focus on performance, styling speed, and maintainability.</p>
 </ul>
 </td>
 </tr>
