@@ -39,7 +39,7 @@
 
 ### 📁 Portfolio - Fabrice Nadal
 
-| Preview | Links | Tech Stack |
+| Preview  | Links  | Tech Stack |
 |:--------:|:------:|:-----------:|
 ![Preview Screenshot](./assets/Bildschirmfoto%20vom%202025-05-16%2014-01-58.png) | [🌐 Demo](https://www.fabricenadal.com)<br><br>[📂 Repo](https://github.com/deinusername/dein-projekt) | <img src="assets/react-svgrepo-com.svg" width="40"/> <img src="assets/tailwind-svgrepo-com.svg" width="40"/> <img src="assets/vite-svgrepo-com.svg" width="40"/> |
 
