@@ -37,7 +37,7 @@
 ## 🚀 My Projects
 
 
-### 📁 Portfolio - Fabrice Nadal
+### Portfolio - Fabrice Nadal
 
 | Preview  | Links  | Tech Stack  |
 |:--------:|:------:|:-----------:|
@@ -53,15 +53,13 @@
 </tbody>
 </table>
 
-  
 ---
 
-Code Square Chat
-
+### Code Square Chat
 
 | Preview | Links | Tech Stack |
 |:-------:|:-----:| ---------- |
-| ![Preview Screenshot](./assets/Codesquarepreview.png) | [🌐 Demo](https://codesquarechat.onrender.com/)<br><br>[📁 Repo](https://github.com/FabriceMru/nebula-chat) | <img src="assets/react-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/scss2-svgrepo-com.svg" width="40"/><br><img src="assets/vite-svgrepo-com.svg" width="40"/><br><img src="assets/express-svgrepo-com (1).svg" width="40"/><br><img src="assets/mongodb-svgrepo-com.svg" width="40"/><br><img src="assets/node-js-svgrepo-com.svg" width="40"/> |
+| ![Preview Screenshot](./assets/codepreview.png) | [🌐 Demo](https://codesquarechat.onrender.com/)<br><br>[📁 Repo](https://github.com/FabriceMru/nebula-chat) | <img src="assets/react-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/scss2-svgrepo-com.svg" width="40"/><br><img src="assets/vite-svgrepo-com.svg" width="40"/><br><img src="assets/express-svgrepo-com (1).svg" width="40"/><br><img src="assets/mongodb-svgrepo-com.svg" width="40"/><br><img src="assets/node-js-svgrepo-com.svg" width="40"/> |
 | Description |
 <table>
 <thead>
@@ -76,8 +74,7 @@ Code Square Chat
 
 ---
 
-Watchflix 
-
+### Watchflix 
 
 | Preview | Links | Tech Stack |
 |:-------:|:-----:|:----------:|
@@ -92,14 +89,12 @@ Watchflix
 </tr>
 </tbody>
 </table>
-
   
 ---
 
-### GAMES
+## GAMES
 
-NeonSnakeTwo
-
+### NeonSnakeTwo
 
 | Preview | Links | Tech Stack |
 |:-------:|:-----:|:----------:|
@@ -115,11 +110,9 @@ NeonSnakeTwo
 </tbody>
 </table>
 
-
 ---
 
-Schiffe versenken
-
+### Schiffe versenken
 
 | Preview | Links | Tech Stack |
 |:-------:|:-----:|:----------:|
