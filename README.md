@@ -59,8 +59,8 @@
 Code Square Chat
 
 
-| Preview | Links | Technical Stack |
-|:-------:|:-----:| --------------- |
+| Preview | Links | Tech Stack |
+|:-------:|:-----:| ---------- |
 
 
 ---
@@ -68,8 +68,8 @@ Code Square Chat
 Watchflix 
 
 
-| Preview | Links | Technical Stack |
-|:-------:|:-----:|:---------------:|
+| Preview | Links | Tech Stack |
+|:-------:|:-----:|:----------:|
 | ![Preview Screenshot](./assets/previewwatchflix.png) | [🌐 Demo](https://watchflix-bay.vercel.app/)<br><br>[📁 Repo](https://github.com/FabriceMru/watchflix) | <img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/javascript-svgrepo-com.svg" width="40"/> |
 | Description |
 <table>
