@@ -65,7 +65,7 @@
 <thead>
 <tr>
 <td colspan="4">
-<p>WatchFlix is one of my initial projects, developed to deepen my understanding of frontend development and design principles. This web application serves as a conceptual streaming platform, allowing users to browse and view information about movies and TV series. Emphasizing a clean and responsive user interface, the project showcases my skills in creating engaging and accessible designs.</p>
+<p>CodeSquare Chat (CSC) is a real-time messaging application designed to facilitate seamless communication between users. Developed by a team of four, the application emphasizes an intuitive user interface, responsive design, and robust backend functionality to ensure efficient and secure messaging.</p>
 </td>
 </tr>
 </tbody>
