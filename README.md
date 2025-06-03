@@ -89,7 +89,25 @@
 </tr>
 </tbody>
 </table>
-  
+
+---
+
+### Digital Showcase
+
+| Preview | Links | Tech Stack |
+|:-------:|:-----:|:----------:|
+| ![Preview Screenshot](./assets/previewwatchflix.png) | [🌐 Demo](https://watchflix-bay.vercel.app/)<br><br>[📁 Repo](https://github.com/FabriceMru/watchflix) | <img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/javascript-svgrepo-com.svg" width="40"/> |
+| Description |
+<table>
+<thead>
+<tr>
+<td colspan="4">
+<p>Diese Website ist ein Showcase meiner technischen Fähigkeiten und zeigt verschiedene Web-Effekte, Animationen und Interaktionen, die das moderne Web zu bieten hat.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 ---
 
 ## GAMES
