@@ -96,7 +96,7 @@
 
 | Preview | Links | Tech Stack |
 |:-------:|:-----:|:----------:|
-| ![Preview Screenshot](./assets/Bildschirmfoto vom 2025-06-03 03-33-05.png) | [🌐 Demo](https://watchflix-bay.vercel.app/)<br><br>[📁 Repo](https://github.com/FabriceMru/watchflix) | <img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/javascript-svgrepo-com.svg" width="40"/> |
+| ![Preview Screenshot](./assets/digitalshowcase.png) | [🌐 Demo](https://watchflix-bay.vercel.app/)<br><br>[📁 Repo](https://github.com/FabriceMru/watchflix) | <img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/javascript-svgrepo-com.svg" width="40"/> |
 | Description |
 <table>
 <thead>
