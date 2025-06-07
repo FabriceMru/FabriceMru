@@ -70,10 +70,13 @@ Inspired by systems like SecureDrop, but with a strong focus on accessibility, e
 
 ### 🎥 Demo Video
 
-<video width="480" height="270" controls>
-  <source src="./assets/trustdropdemo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://player.vimeo.com/video/1091361796?title=0&byline=0&portrait=0"
+    style="position:absolute;top:0;left:0;width:100%;height:100%;"
+    frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
+    allowfullscreen title="TrustDrop Demo">
+  </iframe>
+</div>
 
 ---
 
@@ -92,7 +95,7 @@ Inspired by systems like SecureDrop, but with a strong focus on accessibility, e
 - Inbox management: View status, timestamp, message ID, and download files.
 
 **Security & Hosting**
-- Deployed on Vercel: Fast and globally distributed infrastructure.
+- Deployed on Vercel(on request): Fast and globally distributed infrastructure.
 - No server-side decryption.
 - Content Security Policy (CSP), HSTS, XSS protection: Gradually being fully integrated.
 - Open-source architecture planned: Building trust through transparency.
