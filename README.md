@@ -68,7 +68,8 @@ Inspired by systems like SecureDrop, but with a strong focus on accessibility, e
 
 ---
 
-### 🎥 Demo Video Link: [Video](https://vimeo.com/1091362685){:target="_blank"}
+### 🎥 Demo Video Link: <a href="https://vimeo.com/1091362685" target="_blank" rel="noopener noreferrer">Video</a>
+
 
 ---
 
