@@ -68,8 +68,8 @@
 <p>TrustDrop is an innovative, web-based whistleblowing system that enables individuals to submit confidential information and files anonymously and securely – without fear of surveillance, tracking, or retaliation.
 Inspired by systems like SecureDrop, but with a strong focus on accessibility, ease of use, and modern web technologies, TrustDrop is designed for organizations committed to exposing wrongdoing and promoting transparency – without technical barriers and maximum security.
   
-### 🎥 Demo Video:
-<video width="480" controls>
+🎥 Demo Video:
+<video width="320" height="200" controls>
   <source src="./assets/trustdropdemo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
