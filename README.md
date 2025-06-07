@@ -70,7 +70,7 @@ Inspired by systems like SecureDrop, but with a strong focus on accessibility, e
   
 ### 🎥 Demo Video:
 <video width="480" controls>
-  <source src="./assets/trustdrop-demo.mp4" type="video/mp4">
+  <source src="./assets/trustdropdemo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
