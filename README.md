@@ -88,11 +88,10 @@ Inspired by systems like SecureDrop, but with a strong focus on accessibility, e
 - Inbox management: View status, timestamp, message ID, and download files.
 
 **Security & Hosting**
-- Deployed on Vercel(on request): Fast and globally distributed infrastructure.
+- Deployed on Vercel (Link on request only): Fast and globally distributed infrastructure.
 - No server-side decryption.
 - Content Security Policy (CSP), HSTS, XSS protection: Gradually being fully integrated.
 - Open-source architecture planned: Building trust through transparency.
-
 
 ---
 
@@ -143,7 +142,9 @@ Inspired by systems like SecureDrop, but with a strong focus on accessibility, e
 <thead>
 <tr>
 <td colspan="4">
-<p>Diese Website ist ein Showcase meiner technischen Fähigkeiten und zeigt verschiedene Web-Effekte, Animationen und Interaktionen, die das moderne Web zu bieten hat.</p>
+<p>It demonstrates a wide range of modern web effects, animations, and user interactions that highlight the possibilities of today’s frontend development.
+From subtle transitions and hover effects to complex scroll-based animations and responsive UI components – this project is designed to inspire, impress, and push the boundaries of what’s possible in the browser.
+Each effect is implemented with clean, efficient code and structured for easy reuse in professional web projects. The goal is not only to present visual flair, but also to reflect best practices in performance, accessibility, and responsive design.</p>
 </td>
 </tr>
 </tbody>
