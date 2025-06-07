@@ -59,7 +59,7 @@
 
 | Preview | Links | Tech Stack |
 |:-------:|:-----:| ---------- |
-| ![Preview Screenshot](./assets/codepreview.png) | [🌐 Demo](https://codesquarechat.onrender.com/)<br><br>[📁 Repo](https://github.com/FabriceMru/nebula-chat) | <img src="assets/react-svgrepo-com.svg" width="40"/><br><img src="assets/css-3-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/scss2-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/tailwind-svgrepo-com.svg" width="40"/> |
+| ![Preview Screenshot](./assets/trustdropdemo.mp4) | [🌐 Demo](https://codesquarechat.onrender.com/)<br><br>[📁 Repo](https://github.com/FabriceMru/trustdrop-whistle) | <img src="assets/react-svgrepo-com.svg" width="40"/><br><img src="assets/next-dot-js-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/tailwind-svgrepo-com.svg" width="40"/> |
 | Description |
 <table>
 <thead>
@@ -68,19 +68,15 @@
 <p>TrustDrop is an innovative, web-based whistleblowing system that enables individuals to submit confidential information and files anonymously and securely – without fear of surveillance, tracking, or retaliation.
 Inspired by systems like SecureDrop, but with a strong focus on accessibility, ease of use, and modern web technologies, TrustDrop is designed for organizations committed to exposing wrongdoing and promoting transparency – without technical barriers and maximum security.
   
-✅ Whistleblower Interface
+✅ Whistleblower Interface, Admin Panel, Security
 - Client-side PGP encryption: Messages and files are encrypted locally in the browser.
 - No registration, no tracking: Fully anonymous.
 - File upload & message input: Can be used together or separately.
 - Confirmation code & message codes: For secure tracking and verification.
-<br>
-✅ Admin Panel
 - Authentication system: Password-protected (client-side only).
 - Import of private PGP keys (local): No keys stored on the server.
 - Decryption in the browser: Zero-knowledge security model.
 - Inbox management: View status, timestamp, message ID, and download files.
-<br>
-✅ Security & Hosting
 - Deployed on Vercel: Fast and globally distributed infrastructure.
 - No server-side decryption.
 - Content Security Policy (CSP), HSTS, XSS protection: Gradually being fully integrated.
