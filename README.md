@@ -59,7 +59,7 @@
 
 | Preview | Links | Tech Stack |
 |:-------:|:-----:| ---------- |
-| ![Preview Screenshot](./assets/trustdropdemo.mp4) | [🌐 Demo](https://codesquarechat.onrender.com/)<br><br>[📁 Repo](https://github.com/FabriceMru/trustdrop-whistle) | <img src="assets/react-svgrepo-com.svg" width="40"/><br><img src="assets/next-dot-js-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/tailwind-svgrepo-com.svg" width="40"/> |
+| ![Preview Screenshot](./assets/trustdropcover.png) |**🎥 Demo Video below**<br>[📁 Repo](https://github.com/FabriceMru/trustdrop-whistle) | <img src="assets/react-svgrepo-com.svg" width="40"/><br><img src="assets/next-dot-js-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/tailwind-svgrepo-com.svg" width="40"/> |
 | Description |
 <table>
 <thead>
@@ -68,6 +68,12 @@
 <p>TrustDrop is an innovative, web-based whistleblowing system that enables individuals to submit confidential information and files anonymously and securely – without fear of surveillance, tracking, or retaliation.
 Inspired by systems like SecureDrop, but with a strong focus on accessibility, ease of use, and modern web technologies, TrustDrop is designed for organizations committed to exposing wrongdoing and promoting transparency – without technical barriers and maximum security.
   
+### 🎥 Demo Video:
+<video width="480" controls>
+  <source src="./assets/trustdrop-demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ✅ Whistleblower Interface, Admin Panel, Security
 - Client-side PGP encryption: Messages and files are encrypted locally in the browser.
 - No registration, no tracking: Fully anonymous.
