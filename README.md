@@ -58,39 +58,45 @@
 ### TrustDrop - Anonymous Digital Whistleblower System
 
 | Preview | Links | Tech Stack |
-|:-------:|:-----:| ---------- |
-| ![Preview Screenshot](./assets/trustdropcover.png) |**🎥 Demo Video below**<br>[📁 Repo](https://github.com/FabriceMru/trustdrop-whistle) | <img src="assets/react-svgrepo-com.svg" width="40"/><br><img src="assets/next-dot-js-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/tailwind-svgrepo-com.svg" width="40"/> |
-| Description |
-<table>
-<thead>
-<tr>
-<td colspan="4">
-<p>TrustDrop is an innovative, web-based whistleblowing system that enables individuals to submit confidential information and files anonymously and securely – without fear of surveillance, tracking, or retaliation.
-Inspired by systems like SecureDrop, but with a strong focus on accessibility, ease of use, and modern web technologies, TrustDrop is designed for organizations committed to exposing wrongdoing and promoting transparency – without technical barriers and maximum security.
-  
-🎥 Demo Video:
-<video width="320" height="200" controls>
+|:-------:|:-----:|:----------:|
+| ![Preview Screenshot](./assets/trustdropcover.png) | **🎥 Demo Video below**<br>[📁 Repo](https://github.com/FabriceMru/trustdrop-whistle) | <img src="assets/react-svgrepo-com.svg" width="40"/><br><img src="assets/next-dot-js-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/tailwind-svgrepo-com.svg" width="40"/> |
+
+### 📝 Description
+
+TrustDrop is an innovative, web-based whistleblowing system that enables individuals to submit confidential information and files anonymously and securely – without fear of surveillance, tracking, or retaliation.  
+Inspired by systems like SecureDrop, but with a strong focus on accessibility, ease of use, and modern web technologies, TrustDrop is designed for organizations committed to exposing wrongdoing and promoting transparency – without technical barriers and with maximum security.
+
+---
+
+### 🎥 Demo Video
+
+<video width="480" height="270" controls>
   <source src="./assets/trustdropdemo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-✅ Whistleblower Interface, Admin Panel, Security
+---
+
+### ✅ Features Overview
+
+**Whistleblower Interface**
 - Client-side PGP encryption: Messages and files are encrypted locally in the browser.
 - No registration, no tracking: Fully anonymous.
 - File upload & message input: Can be used together or separately.
 - Confirmation code & message codes: For secure tracking and verification.
+
+**Admin Panel**
 - Authentication system: Password-protected (client-side only).
 - Import of private PGP keys (local): No keys stored on the server.
 - Decryption in the browser: Zero-knowledge security model.
 - Inbox management: View status, timestamp, message ID, and download files.
+
+**Security & Hosting**
 - Deployed on Vercel: Fast and globally distributed infrastructure.
 - No server-side decryption.
 - Content Security Policy (CSP), HSTS, XSS protection: Gradually being fully integrated.
-- Open-source architecture planned: Building trust through transparency.</p>
-</td>
-</tr>
-</tbody>
-</table>
+- Open-source architecture planned: Building trust through transparency.
+
 
 ---
 
