@@ -59,17 +59,19 @@
 
 | Preview | Links | Tech Stack |
 |:-------:|:-----:|:----------:|
-| ![Preview Screenshot](./assets/trustdropcover.png) | **🎥 Demo Video below**<br>[📁 Repo](https://github.com/FabriceMru/trustdrop-whistle) | <img src="assets/react-svgrepo-com.svg" width="40"/><br><img src="assets/next-dot-js-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/tailwind-svgrepo-com.svg" width="40"/> |
+| ![Preview Screenshot](./assets/trustdropcover.png) | [📁 Repo](https://github.com/FabriceMru/trustdrop-whistle) | <img src="assets/react-svgrepo-com.svg" width="40"/><br><img src="assets/next-dot-js-svgrepo-com.svg" width="40"/><br><img src="assets/typescript-svgrepo-com.svg" width="40"/><br><img src="assets/tailwind-svgrepo-com.svg" width="40"/> |
 
 ### 📝 Description
 
-TrustDrop is an innovative, web-based whistleblowing system that enables individuals to submit confidential information and files anonymously and securely – without fear of surveillance, tracking, or retaliation.  
-Inspired by systems like SecureDrop, but with a strong focus on accessibility, ease of use, and modern web technologies, TrustDrop is designed for organizations committed to exposing wrongdoing and promoting transparency – without technical barriers and with maximum security.
+TrustDrop is an innovative, web-based whistleblowing system that enables individuals to submit confidential information and files anonymously and securely – without fear of surveillance, tracking, or retaliation.
+
+Inspired by platforms like SecureDrop, TrustDrop focuses on accessibility, user-friendliness, and modern web technologies, making it ideal for organizations that are committed to uncovering misconduct and promoting transparency – without technical barriers and with maximum security.
+
+This is my most ambitious and technically complex project to date, combining end-to-end encryption, secure file handling, client-side key management, and a fully custom admin interface – all built from scratch using a modern fullstack architecture.
 
 ---
 
 ### 🎥 Demo Video Link: <a href="https://vimeo.com/1091362685" target="_blank" rel="noopener noreferrer">Video</a>
-
 
 ---
 
