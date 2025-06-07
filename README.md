@@ -68,15 +68,7 @@ Inspired by systems like SecureDrop, but with a strong focus on accessibility, e
 
 ---
 
-### 🎥 Demo Video
-
-<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
-  <iframe src="https://player.vimeo.com/video/1091361796?title=0&byline=0&portrait=0"
-    style="position:absolute;top:0;left:0;width:100%;height:100%;"
-    frameborder="0" allow="autoplay; fullscreen; picture-in-picture"
-    allowfullscreen title="TrustDrop Demo">
-  </iframe>
-</div>
+### 🎥 Demo Video Link: https://vimeo.com/1091362685
 
 ---
 
